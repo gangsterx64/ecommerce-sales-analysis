@@ -97,3 +97,14 @@ A clean custom background/theme is recommended for a professional look.
 │   └── top_customers.png         # Output: Top customer ranking
 │
 └── README.md                     # This documentation file
+```
+
+## 📬 Contact Information
+
+Thank you for reviewing this project! I am actively seeking opportunities and would love to connect.
+
+| Channel | Details |
+| :--- | :--- |
+| **Name** | Jitesh Jangam |
+| **Email** | `jangamjitesh1@gmail.com` |
+| **LinkedIn** | linkedin.com/in/jitesh-jangam |
