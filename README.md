@@ -80,9 +80,7 @@ A clean custom background/theme is recommended for a professional look.
 ---
 
 ## 📁 6. Project Structure
-
-Business Performance Dashboard (E-Commerce Sales Analytics)/
-│
+```text
 ├── data/
 │   └── data.csv                  # The raw dataset used for the analysis   
 │   └── cleaned_Data              # Output: Top customer ranking
@@ -99,9 +97,3 @@ Business Performance Dashboard (E-Commerce Sales Analytics)/
 │   └── top_customers.png         # Output: Top customer ranking
 │
 └── README.md                     # This documentation file
-
-│
-├── analysis_summary/                   
-│   └── summary.txt                     # Short written analysis
-│
-└── README.md                           # Project documentation
