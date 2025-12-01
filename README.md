@@ -100,24 +100,6 @@ Business Performance Dashboard (E-Commerce Sales Analytics)/
 │
 └── README.md                     # This documentation file
 
-
-## Project Structure
-Business Performance Dashboard (E-Commerce Sales Analytics)/
-│
-├── data/
-│   ├── data.csv                        # Raw dataset
-│   └── cleaned_data.csv                # Cleaned dataset after preprocessing
-│
-├── notebook/
-│   └── Data_Cleaning.ipynb             # Data cleaning + initial EDA notebook
-│
-├── powerbi/
-│   └── main_01.pbix                    # Final Power BI dashboard file
-│
-├── visuals/
-│   ├── monthly_revenue.png             # Monthly revenue trend
-│   ├── top_products.png                # Top-selling products
-│   └── top_customers.png               # Best customers by revenue
 │
 ├── analysis_summary/                   
 │   └── summary.txt                     # Short written analysis
